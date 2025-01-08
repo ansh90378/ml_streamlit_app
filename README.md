@@ -68,7 +68,7 @@ The target labels are the three species:
 5. Open the app in your browser at `http://localhost:8501`.  
 
 ## 🚀 Deployment  
-The app has been deployed on Streamlit and can be accessed [here]([https://ml-model-rf.streamlit.app/]).  
+The app has been deployed on Streamlit and can be accessed [here](https://ml-model-rf.streamlit.app/).  
 
 ## 🏆 Accuracy  
 Achieved **100% accuracy** in classifying iris flower species.  
